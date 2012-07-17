@@ -1,1 +1,3 @@
 fileA2 contents
+
+b content here
