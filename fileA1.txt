@@ -2,3 +2,4 @@ fileA1
 
 b content here
 
+c content here
