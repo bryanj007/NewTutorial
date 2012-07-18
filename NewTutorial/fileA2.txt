@@ -1,6 +1,0 @@
-fileA2 contents
-
-b content here
-c stuff here
-c stuff
-c stuff
